@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dev Blog</title>
-    <link>https://devblog.github.io/tags/</link>
+    <link>https://itzdm.github.io/tags/</link>
     <description>Recent content in Tags on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Dec 2023 21:23:25 +0530</lastBuildDate>
-    <atom:link href="https://devblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzdm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>code</title>
-      <link>https://devblog.github.io/tags/code/</link>
+      <link>https://itzdm.github.io/tags/code/</link>
       <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
-      <guid>https://devblog.github.io/tags/code/</guid>
+      <guid>https://itzdm.github.io/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>css</title>
-      <link>https://devblog.github.io/tags/css/</link>
+      <link>https://itzdm.github.io/tags/css/</link>
       <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
-      <guid>https://devblog.github.io/tags/css/</guid>
+      <guid>https://itzdm.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>data</title>
-      <link>https://devblog.github.io/tags/data/</link>
+      <link>https://itzdm.github.io/tags/data/</link>
       <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
-      <guid>https://devblog.github.io/tags/data/</guid>
+      <guid>https://itzdm.github.io/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>general</title>
-      <link>https://devblog.github.io/tags/general/</link>
+      <link>https://itzdm.github.io/tags/general/</link>
       <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
-      <guid>https://devblog.github.io/tags/general/</guid>
+      <guid>https://itzdm.github.io/tags/general/</guid>
       <description></description>
     </item>
     <item>
       <title>html</title>
-      <link>https://devblog.github.io/tags/html/</link>
+      <link>https://itzdm.github.io/tags/html/</link>
       <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
-      <guid>https://devblog.github.io/tags/html/</guid>
+      <guid>https://itzdm.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>nextjs</title>
-      <link>https://devblog.github.io/tags/nextjs/</link>
+      <link>https://itzdm.github.io/tags/nextjs/</link>
       <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
-      <guid>https://devblog.github.io/tags/nextjs/</guid>
+      <guid>https://itzdm.github.io/tags/nextjs/</guid>
       <description></description>
     </item>
   </channel>
