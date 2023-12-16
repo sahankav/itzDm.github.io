@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Dev Blog</title>
+    <link>https://devblog.github.io/tags/code/</link>
+    <description>Recent content in code on Dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2023 21:23:25 +0530</lastBuildDate>
+    <atom:link href="https://devblog.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post fefgj vodivg dvggojdgu odfiug dfg sdfdf fdfdf fd f </title>
+      <link>https://devblog.github.io/first-post/</link>
+      <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
+      <guid>https://devblog.github.io/first-post/</guid>
+      <description>An h1 header Paragraphs are separated by a blank line.&#xA;2nd paragraph. Italic, bold, and monospace. Itemized lists look like:&#xA;this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.&#xA;Block quotes are written like so.&#xA;They can span multiple paragraphs, if you like.&#xA;Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &amp;ldquo;it&amp;rsquo;s all in chapters 12&amp;ndash;14&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>https://devblog.github.io/sec-post-/</link>
+      <pubDate>Thu, 14 Dec 2023 21:23:25 +0530</pubDate>
+      <guid>https://devblog.github.io/sec-post-/</guid>
+      <description>My First Blog Post Published on: 2022-07-01&#xA;Welcome to my new blog about learning Astro! Here, I will share my learning journey as I build a new website.&#xA;What I&amp;rsquo;ve accomplished Installing Astro: First, I created a new Astro project and set up my online accounts.&#xA;Making Pages: I then learned how to make pages by creating new .astro files and placing them in the src/pages/ folder.&#xA;Making Blog Posts: This is my first blog post!</description>
+    </item>
+  </channel>
+</rss>
