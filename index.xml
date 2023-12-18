@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev Blog</title>
-    <link>https://itzdm.github.io/devBlog.github.io/</link>
+    <link>https://devBlog.github.io/</link>
     <description>Recent content on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Dec 2023 14:51:41 +0530</lastBuildDate>
-    <atom:link href="https://itzdm.github.io/devBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React.js vs Next.js: Choosing the Right Framework for Your Project in 2024 !</title>
-      <link>https://itzdm.github.io/devBlog.github.io/react-or-next-in-2024/</link>
+      <link>https://devBlog.github.io/react-or-next-in-2024/</link>
       <pubDate>Mon, 18 Dec 2023 14:51:41 +0530</pubDate>
-      <guid>https://itzdm.github.io/devBlog.github.io/react-or-next-in-2024/</guid>
+      <guid>https://devBlog.github.io/react-or-next-in-2024/</guid>
       <description>As we step into 2024, the world of web development continues to evolve, and developers are faced with the ever-important decision of selecting the right tools for their projects. In the realm of JavaScript libraries and frameworks, React.js and Next.js have been stalwarts, empowering developers to build modern and dynamic user interfaces. In this blog post, we&amp;rsquo;ll delve into the comparison of React.js and Next.js, exploring their strengths and use cases to help you make an informed decision for your projects in 2024.</description>
     </item>
   </channel>
