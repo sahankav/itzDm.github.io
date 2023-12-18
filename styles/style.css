@@ -43,6 +43,22 @@ a {
   font-size: 24px;
 }
 
+/* not found start   */
+.notFound {
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 20px;
+}
+.notFoundBtn {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 4px;
+}
+/* not found end   */
+
 nav {
   background: var(--bg);
   display: flex;
@@ -275,8 +291,8 @@ nav {
 @media (max-width: 1024px) {
   .container {
     max-width: 768px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 
@@ -284,6 +300,9 @@ nav {
 @media (max-width: 768px) {
   .container {
     max-width: 640px;
+  }
+  .listItem {
+    gap: 20px;
   }
   .singleHead {
     flex-direction: column;
