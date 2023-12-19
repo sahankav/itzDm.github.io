@@ -6,10 +6,17 @@
     <description>Recent content in js on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 14:51:41 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 16:50:34 +0530</lastBuildDate>
     <atom:link href="https://itzdm.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>React.js vs Next.js: Choosing the Right Framework for Your Project in 2024 !</title>
+      <title>🚀 Exploring Amazing Websites with HTMX</title>
+      <link>https://itzdm.github.io/amazing-htmx/</link>
+      <pubDate>Tue, 19 Dec 2023 16:50:34 +0530</pubDate>
+      <guid>https://itzdm.github.io/amazing-htmx/</guid>
+      <description>Hey there! Ever wondered how websites can do cool stuff without refreshing the whole page? That&amp;rsquo;s where HTMX comes in. It&amp;rsquo;s like magic for websites, making them dynamic and fun. Let&amp;rsquo;s dive into the basics without the tech jargon!&#xA;🤔 What&amp;rsquo;s HTMX? HTMX is like a special tool for website creators. It helps them make websites more interesting without making things complicated. Instead of lots of confusing code, HTMX lets them do cool things using simple words in their website&amp;rsquo;s recipe (HTML).</description>
+    </item>
+    <item>
+      <title>React.js or Next.js: Choosing the Right Framework for Your Project in 2024 !</title>
       <link>https://itzdm.github.io/react-or-next-in-2024/</link>
       <pubDate>Mon, 18 Dec 2023 14:51:41 +0530</pubDate>
       <guid>https://itzdm.github.io/react-or-next-in-2024/</guid>

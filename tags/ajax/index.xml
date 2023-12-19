@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ajax on Dev Blog</title>
+    <link>https://itzdm.github.io/tags/ajax/</link>
+    <description>Recent content in ajax on Dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 16:50:34 +0530</lastBuildDate>
+    <atom:link href="https://itzdm.github.io/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Exploring Amazing Websites with HTMX</title>
+      <link>https://itzdm.github.io/amazing-htmx/</link>
+      <pubDate>Tue, 19 Dec 2023 16:50:34 +0530</pubDate>
+      <guid>https://itzdm.github.io/amazing-htmx/</guid>
+      <description>Hey there! Ever wondered how websites can do cool stuff without refreshing the whole page? That&amp;rsquo;s where HTMX comes in. It&amp;rsquo;s like magic for websites, making them dynamic and fun. Let&amp;rsquo;s dive into the basics without the tech jargon!&#xA;🤔 What&amp;rsquo;s HTMX? HTMX is like a special tool for website creators. It helps them make websites more interesting without making things complicated. Instead of lots of confusing code, HTMX lets them do cool things using simple words in their website&amp;rsquo;s recipe (HTML).</description>
+    </item>
+  </channel>
+</rss>
