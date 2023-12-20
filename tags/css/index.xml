@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on Dev Blog</title>
+    <link>https://itzdm.github.io/tags/css/</link>
+    <description>Recent content in css on Dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 17:37:45 +0530</lastBuildDate>
+    <atom:link href="https://itzdm.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailwind CSS vs. SCSS : A Comprehensive Comparison 🎨💡</title>
+      <link>https://itzdm.github.io/tailwind-vs-scss/</link>
+      <pubDate>Wed, 20 Dec 2023 17:37:45 +0530</pubDate>
+      <guid>https://itzdm.github.io/tailwind-vs-scss/</guid>
+      <description>Choosing the right styling approach for your web development project can significantly impact your workflow and the maintainability of your code. In this blog post, we&amp;rsquo;ll compare two popular styling options: Tailwind CSS and SCSS (Sass). Let&amp;rsquo;s dive into the world of utility-first and preprocessor-based styling!&#xA;Tailwind CSS: 🚀 Overview Tailwind CSS takes a unique utility-first approach. It provides a set of low-level utility classes that you can apply directly in your HTML, allowing for rapid development and easy customization.</description>
+    </item>
+  </channel>
+</rss>

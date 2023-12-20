@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://itzdm.github.io/authors/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
+    <loc>https://itzdm.github.io/tags/css/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
+    <loc>https://itzdm.github.io/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
+    <loc>https://itzdm.github.io/authors/dm/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
+    <loc>https://itzdm.github.io/tags/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
+    <loc>https://itzdm.github.io/tailwind-vs-scss/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
+    <loc>https://itzdm.github.io/tags/web/</loc>
+    <lastmod>2023-12-20T17:37:45+05:30</lastmod>
+  </url><url>
     <loc>https://itzdm.github.io/amazing-htmx/</loc>
     <lastmod>2023-12-19T16:50:34+05:30</lastmod>
   </url><url>
     <loc>https://itzdm.github.io/tags/ajax/</loc>
     <lastmod>2023-12-19T16:50:34+05:30</lastmod>
   </url><url>
-    <loc>https://itzdm.github.io/authors/</loc>
-    <lastmod>2023-12-19T16:50:34+05:30</lastmod>
-  </url><url>
-    <loc>https://itzdm.github.io/</loc>
-    <lastmod>2023-12-19T16:50:34+05:30</lastmod>
-  </url><url>
-    <loc>https://itzdm.github.io/authors/dm/</loc>
-    <lastmod>2023-12-19T16:50:34+05:30</lastmod>
-  </url><url>
     <loc>https://itzdm.github.io/tags/htmx/</loc>
     <lastmod>2023-12-19T16:50:34+05:30</lastmod>
   </url><url>
     <loc>https://itzdm.github.io/tags/js/</loc>
-    <lastmod>2023-12-19T16:50:34+05:30</lastmod>
-  </url><url>
-    <loc>https://itzdm.github.io/tags/</loc>
     <lastmod>2023-12-19T16:50:34+05:30</lastmod>
   </url><url>
     <loc>https://itzdm.github.io/tags/nextjs/</loc>
