@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 16:43:29 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 23:25:45 +0530</lastBuildDate>
     <atom:link href="https://itzdm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>full-stack</title>
+      <link>https://itzdm.github.io/tags/full-stack/</link>
+      <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
+      <guid>https://itzdm.github.io/tags/full-stack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>js</title>
+      <link>https://itzdm.github.io/tags/js/</link>
+      <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
+      <guid>https://itzdm.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vs-code</title>
+      <link>https://itzdm.github.io/tags/vs-code/</link>
+      <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
+      <guid>https://itzdm.github.io/tags/vs-code/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://itzdm.github.io/tags/ai/</link>
@@ -41,20 +62,6 @@
       <link>https://itzdm.github.io/tags/html/</link>
       <pubDate>Mon, 25 Dec 2023 17:57:54 +0530</pubDate>
       <guid>https://itzdm.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>js</title>
-      <link>https://itzdm.github.io/tags/js/</link>
-      <pubDate>Mon, 25 Dec 2023 17:57:54 +0530</pubDate>
-      <guid>https://itzdm.github.io/tags/js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>web</title>
-      <link>https://itzdm.github.io/tags/web/</link>
-      <pubDate>Mon, 25 Dec 2023 17:57:54 +0530</pubDate>
-      <guid>https://itzdm.github.io/tags/web/</guid>
       <description></description>
     </item>
     <item>

@@ -1,7 +1,6 @@
 :root {
   --bg: #0b1529;
-  /* --bgSoft: #1f3580; */
-  --bgSoft: #384160;
+  --bgSoft: #222737;
   --text: #dee4eb;
   --textSoft: #cbd2d9;
 }
@@ -40,8 +39,14 @@ a {
 
 /* navBar start */
 .logo {
-  font-weight: bold;
-  font-size: 24px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 22px;
+}
+.logo img {
+  width: 40px;
+  height: 40px;
 }
 
 /* not found start   */
@@ -120,7 +125,7 @@ nav {
 }
 .readMore {
   font-size: 14px;
-  color: #456fff;
+  color: #7695ff;
 }
 .listItemImg {
   width: 200px;
@@ -146,6 +151,12 @@ nav {
   height: 30px;
   border-radius: 50%;
   object-fit: cover;
+}
+.readTime {
+  color: greenyellow;
+  padding: 5px;
+  border-radius: 5px;
+  background: var(--bgSoft);
 }
 .tagItemList {
   display: flex;
@@ -185,6 +196,7 @@ nav {
 }
 .page-item {
   cursor: pointer;
+  font-weight: bold;
   border: 1px solid gray;
   width: 30px;
   height: 30px;
@@ -259,11 +271,6 @@ nav {
 }
 /* single page end */
 
-/* categories start */
-/* .catList {
-} */
-/* categories end */
-
 /* footer  start*/
 .footer {
   font-size: 14px;
@@ -300,6 +307,9 @@ nav {
     max-width: 768px;
     padding-left: 15px;
     padding-right: 15px;
+  }
+  .logo {
+    font-size: 20px;
   }
   .singleHead {
     flex-direction: column;

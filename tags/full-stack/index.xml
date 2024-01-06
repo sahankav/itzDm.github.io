@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev Blog</title>
-    <link>https://itzdm.github.io/</link>
-    <description>Recent content on Dev Blog</description>
+    <title>full-stack on Dev Blog</title>
+    <link>https://itzdm.github.io/tags/full-stack/</link>
+    <description>Recent content in full-stack on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jan 2024 23:25:45 +0530</lastBuildDate>
-    <atom:link href="https://itzdm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzdm.github.io/tags/full-stack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boost Your Full Stack Development: Top VS Code Extension You need to Use in 2024! 🚀</title>
       <link>https://itzdm.github.io/vscode-extension-for-fullstack-dev/</link>
       <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
       <guid>https://itzdm.github.io/vscode-extension-for-fullstack-dev/</guid>
       <description>Visual Studio Code (VS Code) is like a superhero for coders! It helps us write code better, faster, and with fewer mistakes.There are cool tools, called extensions, making VS Code even more awesome. Let&amp;rsquo;s check out some of these extension that can make coding feel like a breeze!&#xA;1- ESLint 🚨. What it does: ESLint is like a superhero teacher. It checks our code and tells us if there&amp;rsquo;s something wrong.</description>
-    </item>
-    <item>
-      <title>Choosing the Right Language for AI Development: Python 🐍 vs. Rust 🦀 ?</title>
-      <link>https://itzdm.github.io/python-or-rust-for-ai/</link>
-      <pubDate>Thu, 28 Dec 2023 16:43:29 +0530</pubDate>
-      <guid>https://itzdm.github.io/python-or-rust-for-ai/</guid>
-      <description>When you&amp;rsquo;re making cool stuff with computers, like smart programs or robots, you need to choose the right computer language. Two languages that people use a lot for this are Python and Rust. Let&amp;rsquo;s look at what makes each of them special and help you decide which one might be better for your project.&#xA;Python for AI 🐍. Python is like the friendly neighborhood wizard of AI. 🧙‍♂️ Here&amp;rsquo;s why:</description>
     </item>
     <item>
       <title>A Comprehensive Guide to Becoming a Full Stack JavaScript Developer in 2024 🚀</title>
@@ -35,20 +28,6 @@
       <pubDate>Wed, 20 Dec 2023 17:37:45 +0530</pubDate>
       <guid>https://itzdm.github.io/tailwind-vs-scss/</guid>
       <description>Choosing the right styling approach for your web development project can significantly impact your workflow and the maintainability of your code. In this blog post, we&amp;rsquo;ll compare two popular styling options: Tailwind CSS and SCSS (Sass). Let&amp;rsquo;s dive into the world of utility-first and preprocessor-based styling!&#xA;Tailwind CSS: 🚀 Overview Tailwind CSS takes a unique utility-first approach. It provides a set of low-level utility classes that you can apply directly in your HTML, allowing for rapid development and easy customization.</description>
-    </item>
-    <item>
-      <title>🚀 Exploring Amazing Websites with HTMX</title>
-      <link>https://itzdm.github.io/amazing-htmx/</link>
-      <pubDate>Tue, 19 Dec 2023 16:50:34 +0530</pubDate>
-      <guid>https://itzdm.github.io/amazing-htmx/</guid>
-      <description>Hey there! Ever wondered how websites can do cool stuff without refreshing the whole page? That&amp;rsquo;s where HTMX comes in. It&amp;rsquo;s like magic for websites, making them dynamic and fun. Let&amp;rsquo;s dive into the basics without the tech jargon!&#xA;🤔 What&amp;rsquo;s HTMX? HTMX is like a special tool for website creators. It helps them make websites more interesting without making things complicated. Instead of lots of confusing code, HTMX lets them do cool things using simple words in their website&amp;rsquo;s recipe (HTML).</description>
-    </item>
-    <item>
-      <title>React.js or Next.js: Choosing the Right Framework for Your Project in 2024 !</title>
-      <link>https://itzdm.github.io/react-or-next-in-2024/</link>
-      <pubDate>Mon, 18 Dec 2023 14:51:41 +0530</pubDate>
-      <guid>https://itzdm.github.io/react-or-next-in-2024/</guid>
-      <description>As we step into 2024, the world of web development continues to evolve, and developers are faced with the ever-important decision of selecting the right tools for their projects. In the realm of JavaScript libraries and frameworks, React.js and Next.js have been stalwarts, empowering developers to build modern and dynamic user interfaces. In this blog post, we&amp;rsquo;ll delve into the comparison of React.js and Next.js, exploring their strengths and use cases to help you make an informed decision for your projects in 2024.</description>
     </item>
   </channel>
 </rss>

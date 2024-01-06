@@ -6,8 +6,15 @@
     <description>Recent content in DM on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 16:43:29 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 23:25:45 +0530</lastBuildDate>
     <atom:link href="https://itzdm.github.io/authors/dm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boost Your Full Stack Development: Top VS Code Extension You need to Use in 2024! 🚀</title>
+      <link>https://itzdm.github.io/vscode-extension-for-fullstack-dev/</link>
+      <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
+      <guid>https://itzdm.github.io/vscode-extension-for-fullstack-dev/</guid>
+      <description>Visual Studio Code (VS Code) is like a superhero for coders! It helps us write code better, faster, and with fewer mistakes.There are cool tools, called extensions, making VS Code even more awesome. Let&amp;rsquo;s check out some of these extension that can make coding feel like a breeze!&#xA;1- ESLint 🚨. What it does: ESLint is like a superhero teacher. It checks our code and tells us if there&amp;rsquo;s something wrong.</description>
+    </item>
     <item>
       <title>Choosing the Right Language for AI Development: Python 🐍 vs. Rust 🦀 ?</title>
       <link>https://itzdm.github.io/python-or-rust-for-ai/</link>
