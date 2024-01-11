@@ -1,0 +1,14 @@
+/* footer  start*/
+.footer {
+  font-size: 14px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.socialIcon {
+  width: 25px;
+  height: 25px;
+}
+/* footer end */

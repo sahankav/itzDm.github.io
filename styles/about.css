@@ -1,0 +1,131 @@
+/* about start */
+
+.sortInfoContainer {
+  height: 45vh;
+}
+
+.sortInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 10px;
+  height: 100%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.sortInfoText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.sortInfoTitle {
+  color: var(--text);
+  font-size: 3rem;
+}
+
+.animateContainer p {
+  font-size: 1.5rem;
+}
+.typed-text {
+  color: #c7b900;
+  font-weight: 600;
+}
+.downloadOrInfo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.contactBox {
+  display: flex;
+  gap: 20px;
+}
+
+.contactIcon {
+  height: 25px;
+  width: 25px;
+  object-fit: cover;
+}
+
+.myWork {
+  text-align: center;
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.project {
+  margin-top: 2rem;
+  display: flex;
+  gap: 10px;
+  border-radius: 5px;
+  padding: 5px;
+  height: 45vh;
+}
+
+.project.swap {
+  flex-direction: row-reverse;
+}
+
+.projectImg {
+  flex: 1;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.projectContent {
+  flex: 1;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.projectContent p,
+.projectContent h1 {
+  margin: 15px 0;
+  line-height: 20px;
+}
+
+.projectContent a {
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* about end */
+
+/* responsive */
+@media (max-width: 1024px) {
+  .project {
+    flex-direction: column;
+    height: 80vh;
+  }
+  .project.swap {
+    flex-direction: column;
+  }
+
+  .projectImg {
+    width: 100%;
+    height: 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .sortInfoTitle {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 14px;
+  }
+  .animateContainer p {
+    font-size: 1rem;
+  }
+}
