@@ -9,4 +9,3 @@ toggle.addEventListener("click", () => {
   localStorage.setItem("mode", mode == "light" ? "" : "light");
   body.classList.toggle("light");
 });
-
