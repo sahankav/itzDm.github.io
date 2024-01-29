@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Dev Blog</title>
+    <title>Authors on Wave Delight</title>
     <link>https://itzdm.github.io/authors/</link>
-    <description>Recent content in Authors on Dev Blog</description>
+    <description>Recent content in Authors on Wave Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2024 23:25:45 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 13:14:28 +0530</lastBuildDate>
     <atom:link href="https://itzdm.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DM</title>
       <link>https://itzdm.github.io/authors/dm/</link>
-      <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
+      <pubDate>Mon, 29 Jan 2024 13:14:28 +0530</pubDate>
       <guid>https://itzdm.github.io/authors/dm/</guid>
       <description></description>
     </item>

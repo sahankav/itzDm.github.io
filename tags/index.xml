@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dev Blog</title>
+    <title>Tags on Wave Delight</title>
     <link>https://itzdm.github.io/tags/</link>
-    <description>Recent content in Tags on Dev Blog</description>
+    <description>Recent content in Tags on Wave Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2024 23:25:45 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 13:14:28 +0530</lastBuildDate>
     <atom:link href="https://itzdm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>command</title>
+      <link>https://itzdm.github.io/tags/command/</link>
+      <pubDate>Mon, 29 Jan 2024 13:14:28 +0530</pubDate>
+      <guid>https://itzdm.github.io/tags/command/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>terminal</title>
+      <link>https://itzdm.github.io/tags/terminal/</link>
+      <pubDate>Mon, 29 Jan 2024 13:14:28 +0530</pubDate>
+      <guid>https://itzdm.github.io/tags/terminal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>full-stack</title>
       <link>https://itzdm.github.io/tags/full-stack/</link>

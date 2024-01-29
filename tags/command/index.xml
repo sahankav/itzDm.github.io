@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>command on Wave Delight</title>
+    <link>https://itzdm.github.io/tags/command/</link>
+    <description>Recent content in command on Wave Delight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2024 13:14:28 +0530</lastBuildDate>
+    <atom:link href="https://itzdm.github.io/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering the Terminal: A Beginner Guide to Basic Commands 🚀</title>
+      <link>https://itzdm.github.io/basic-command-blog/</link>
+      <pubDate>Mon, 29 Jan 2024 13:14:28 +0530</pubDate>
+      <guid>https://itzdm.github.io/basic-command-blog/</guid>
+      <description>The terminal, often referred to as the command line or shell, is a powerful tool that allows users to interact with their computer through text commands. For beginners, the terminal might seem intimidating, but fear not! In this guide, we&amp;rsquo;ll walk you through some basic terminal commands that will help you become a command line maestro in no time. 🎩✨&#xA;1. Navigating the File System 📂 pwd - Print Working Directory The pwd command displays the current directory path.</description>
+    </item>
+  </channel>
+</rss>
