@@ -6,8 +6,15 @@
     <description>Recent content in DM on Wave Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jan 2024 13:14:28 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:08:53 +0530</lastBuildDate>
     <atom:link href="https://itzdm.github.io/authors/dm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supercharge Your Coding: Essential Visual Studio Code Shortcuts 🚀</title>
+      <link>https://itzdm.github.io/useful-vscode-shortcut/</link>
+      <pubDate>Thu, 01 Feb 2024 15:08:53 +0530</pubDate>
+      <guid>https://itzdm.github.io/useful-vscode-shortcut/</guid>
+      <description>Welcome, fellow developers! If you&amp;rsquo;re a coder who spends a significant amount of time in Visual Studio Code, you know the importance of efficiency and speed in your workflow. One of the keys to mastering VS Code is harnessing the power of keyboard shortcuts. In this blog post, we&amp;rsquo;ll explore some of the most useful and time-saving shortcuts that will supercharge your coding experience.&#xA;1. Basic Navigation: Ctrl + P: Quickly open files by name.</description>
+    </item>
     <item>
       <title>Mastering the Terminal: A Beginner Guide to Basic Commands 🚀</title>
       <link>https://itzdm.github.io/basic-command-blog/</link>

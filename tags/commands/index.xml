@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vs-code on Wave Delight</title>
-    <link>https://itzdm.github.io/tags/vs-code/</link>
-    <description>Recent content in vs-code on Wave Delight</description>
+    <title>commands on Wave Delight</title>
+    <link>https://itzdm.github.io/tags/commands/</link>
+    <description>Recent content in commands on Wave Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Feb 2024 15:08:53 +0530</lastBuildDate>
-    <atom:link href="https://itzdm.github.io/tags/vs-code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzdm.github.io/tags/commands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Supercharge Your Coding: Essential Visual Studio Code Shortcuts 🚀</title>
       <link>https://itzdm.github.io/useful-vscode-shortcut/</link>
@@ -16,11 +16,11 @@
       <description>Welcome, fellow developers! If you&amp;rsquo;re a coder who spends a significant amount of time in Visual Studio Code, you know the importance of efficiency and speed in your workflow. One of the keys to mastering VS Code is harnessing the power of keyboard shortcuts. In this blog post, we&amp;rsquo;ll explore some of the most useful and time-saving shortcuts that will supercharge your coding experience.&#xA;1. Basic Navigation: Ctrl + P: Quickly open files by name.</description>
     </item>
     <item>
-      <title>Boost Your Full Stack Development: Top VS Code Extension You need to Use in 2024! 🚀</title>
-      <link>https://itzdm.github.io/vscode-extension-for-fullstack-dev/</link>
-      <pubDate>Fri, 05 Jan 2024 23:25:45 +0530</pubDate>
-      <guid>https://itzdm.github.io/vscode-extension-for-fullstack-dev/</guid>
-      <description>Visual Studio Code (VS Code) is like a superhero for coders! It helps us write code better, faster, and with fewer mistakes.There are cool tools, called extensions, making VS Code even more awesome. Let&amp;rsquo;s check out some of these extension that can make coding feel like a breeze!&#xA;1- ESLint 🚨. What it does: ESLint is like a superhero teacher. It checks our code and tells us if there&amp;rsquo;s something wrong.</description>
+      <title>Mastering the Terminal: A Beginner Guide to Basic Commands 🚀</title>
+      <link>https://itzdm.github.io/basic-command-blog/</link>
+      <pubDate>Mon, 29 Jan 2024 13:14:28 +0530</pubDate>
+      <guid>https://itzdm.github.io/basic-command-blog/</guid>
+      <description>The terminal, often referred to as the command line or shell, is a powerful tool that allows users to interact with their computer through text commands. For beginners, the terminal might seem intimidating, but fear not! In this guide, we&amp;rsquo;ll walk you through some basic terminal commands that will help you become a command line maestro in no time. 🎩✨&#xA;1. Navigating the File System 📂 pwd - Print Working Directory The pwd command displays the current directory path.</description>
     </item>
   </channel>
 </rss>
