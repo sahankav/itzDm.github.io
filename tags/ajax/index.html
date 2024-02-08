@@ -30,7 +30,14 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
     />
+    
     <link rel="stylesheet" href="/styles/style.css" />
+    <link rel="stylesheet" href="/styles/list.css" />
+    <link rel="stylesheet" href="/styles/about.css" />
+    <link rel="stylesheet" href="/styles/footer.css" />
+    <link rel="stylesheet" href="/styles/navbar.css" />
+
+    
     <script src="/js/main.js" defer></script>
     <title>ajax</title>
     <link rel="icon" type="image/x-icon" href="/images/wdLogo.svg" />
@@ -41,93 +48,98 @@
   </head>
   <body>
     <div class="container">
-      <link rel="stylesheet" href="/styles/navbar.css" />
-<nav>
-  <a href="/" class="logo">
-    <img src="/images/wdLogo.svg" alt="wave delight logo" loading="lazy" />
-    <strong>Blog</strong>
-  </a>
-  <div class="links">
-    <a href="/about">About</a>
-    <a href="/tags">Categories</a>
-    <div class="toggle">
-      <svg
-        width="20px"
-        height="20px"
-        viewBox="0 0 24 24"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        stroke="#000000"
-      >
-        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-        <g
-          id="SVGRepo_tracerCarrier"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        ></g>
-        <g id="SVGRepo_iconCarrier">
-          <path
-            d="M12 22C17.5228 22 22 17.5228 22 12C22 11.5373 21.3065 11.4608 21.0672 11.8568C19.9289 13.7406 17.8615 15 15.5 15C11.9101 15 9 12.0899 9 8.5C9 6.13845 10.2594 4.07105 12.1432 2.93276C12.5392 2.69347 12.4627 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
-            fill="#1C274C"
-          ></path>
-        </g>
-      </svg>
-      <div class="ball"></div>
-      <svg
-        width="20px"
-        height="20px"
-        viewBox="0 0 36 36"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        aria-hidden="true"
-        role="img"
-        class="iconify iconify--twemoji"
-        preserveAspectRatio="xMidYMid meet"
-        fill="#000000"
-      >
-        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-        <g
-          id="SVGRepo_tracerCarrier"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        ></g>
-        <g id="SVGRepo_iconCarrier">
-          <path
-            fill="#FFAC33"
-            d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"
-          ></path>
-          <circle fill="#FFAC33" cx="18" cy="18" r="10"></circle>
-        </g>
-      </svg>
-    </div>
-  </div>
-</nav>
- 
-<link rel="stylesheet" href="/styles/list.css" />
-
-<div class="list">
-  
-  <div class="listItem">
-    <a href="https://itzdm.github.io/amazing-htmx/">
-      <img
-        src="/images/amazing-htmx-.webp"
-        alt="🚀 Exploring Amazing Websites with HTMX"
-        loading="lazy"
-        class="listItemImg"
-      />
+      <header>
+  <nav>
+    <a href="/" class="logo">
+      <img src="/images/wdLogo.svg" alt="wave delight logo" loading="lazy" />
+      <strong>Blog</strong>
     </a>
-    <div class="listItemRight">
-      <h1 class="listItemTitle">
-        <a href="https://itzdm.github.io/amazing-htmx/">🚀 Exploring Amazing Websites with HTMX</a>
-      </h1>
-      <p>Explore the power of HTMX, a lightweight library for dynamic web experiences. Learn about its declarative syntax, real-time updates, and seamless integration with existing frameworks.</p>
-      <div class="listItemDetail">
+    <div class="links">
+      <a href="/about">About</a>
+      <a href="/tags">Categories</a>
+      <div class="toggle">
+        <svg
+          width="20px"
+          height="20px"
+          viewBox="0 0 24 24"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          stroke="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g
+            id="SVGRepo_tracerCarrier"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></g>
+          <g id="SVGRepo_iconCarrier">
+            <path
+              d="M12 22C17.5228 22 22 17.5228 22 12C22 11.5373 21.3065 11.4608 21.0672 11.8568C19.9289 13.7406 17.8615 15 15.5 15C11.9101 15 9 12.0899 9 8.5C9 6.13845 10.2594 4.07105 12.1432 2.93276C12.5392 2.69347 12.4627 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
+              fill="#1C274C"
+            ></path>
+          </g>
+        </svg>
+        <div class="ball"></div>
+        <svg
+          width="20px"
+          height="20px"
+          viewBox="0 0 36 36"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          aria-hidden="true"
+          role="img"
+          class="iconify iconify--twemoji"
+          preserveAspectRatio="xMidYMid meet"
+          fill="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g
+            id="SVGRepo_tracerCarrier"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></g>
+          <g id="SVGRepo_iconCarrier">
+            <path
+              fill="#FFAC33"
+              d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"
+            ></path>
+            <circle fill="#FFAC33" cx="18" cy="18" r="10"></circle>
+          </g>
+        </svg>
+      </div>
+    </div>
+  </nav>
+</header>
+  
+<main class="list">
+  
+  <section class="listItem">
+    <figure>
+      <a href="https://itzdm.github.io/amazing-htmx/">
         <img
-          src="/images/avatar.webp"
+          src="/images/amazing-htmx-.webp"
           alt="🚀 Exploring Amazing Websites with HTMX"
           loading="lazy"
-          class="listItemAvatar"
+          class="listItemImg"
         />
+      </a>
+    </figure>
+    <section class="listItemRight">
+      <header>
+        <h1 class="listItemTitle">
+          <a href="https://itzdm.github.io/amazing-htmx/">🚀 Exploring Amazing Websites with HTMX</a>
+        </h1>
+      </header>
+      <p>Explore the power of HTMX, a lightweight library for dynamic web experiences. Learn about its declarative syntax, real-time updates, and seamless integration with existing frameworks.</p>
+      <div class="listItemDetail">
+        <figure>
+          <img
+            src="/images/avatar.webp"
+            alt="🚀 Exploring Amazing Websites with HTMX"
+            loading="lazy"
+            class="listItemAvatar"
+          />
+        </figure>
         <span>
           
           <a href="https://itzdm.github.io/authors/dm/">DM</a>
@@ -144,13 +156,12 @@
         <a href="https://itzdm.github.io/tags/ajax/" class="listItemCatItem">ajax</a>
         
       </div>
-    </div>
-  </div>
+    </section>
+  </section>
 
    
-</div>
-  <link rel="stylesheet" href="/styles/footer.css" />
-<div class="footer">
+</main>
+  <footer class="footer">
   <div class="footerLinks">
     <a href="/">Wave Delight</a> | <a href="/tags">tags</a> |
     <a href="/sitemap.xml">sitemap</a>
@@ -161,7 +172,7 @@
       <img class="socialIcon" src="/images/github.svg" alt="github svg" />
     </a>
   </div>
-</div>
+</footer>
 
     </div>
   </body>

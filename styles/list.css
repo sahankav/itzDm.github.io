@@ -27,6 +27,9 @@
   flex-direction: column;
   gap: 10px;
 }
+h1 {
+  font-size: 2em;
+}
 
 .listItemDetail {
   display: flex;
@@ -114,6 +117,7 @@
   flex-direction: column;
   gap: 10px;
 }
+
 .singlePageUserDetail {
   display: flex;
   align-items: center;
@@ -156,15 +160,17 @@
 /* single page end */
 
 /* responsive */
-
-/* for large device "laptop"*/
-@media (max-width: 1024px) {
+@media (max-width: 1280px) {
   .singleHead {
     flex-direction: column;
   }
   .singlePostImage {
     width: 100%;
   }
+}
+
+/* for large device "laptop"*/
+@media (max-width: 1024px) {
   .listItemTitle {
     font-size: 20px;
   }

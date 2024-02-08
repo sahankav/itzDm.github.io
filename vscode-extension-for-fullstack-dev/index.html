@@ -30,7 +30,14 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
     />
+    
     <link rel="stylesheet" href="/styles/style.css" />
+    <link rel="stylesheet" href="/styles/list.css" />
+    <link rel="stylesheet" href="/styles/about.css" />
+    <link rel="stylesheet" href="/styles/footer.css" />
+    <link rel="stylesheet" href="/styles/navbar.css" />
+
+    
     <script src="/js/main.js" defer></script>
     <title>Boost Your Full Stack Development: Top VS Code Extension You need to Use in 2024! 🚀</title>
     <link rel="icon" type="image/x-icon" href="/images/wdLogo.svg" />
@@ -41,82 +48,84 @@
   </head>
   <body>
     <div class="container">
-      <link rel="stylesheet" href="/styles/navbar.css" />
-<nav>
-  <a href="/" class="logo">
-    <img src="/images/wdLogo.svg" alt="wave delight logo" loading="lazy" />
-    <strong>Blog</strong>
-  </a>
-  <div class="links">
-    <a href="/about">About</a>
-    <a href="/tags">Categories</a>
-    <div class="toggle">
-      <svg
-        width="20px"
-        height="20px"
-        viewBox="0 0 24 24"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        stroke="#000000"
-      >
-        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-        <g
-          id="SVGRepo_tracerCarrier"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        ></g>
-        <g id="SVGRepo_iconCarrier">
-          <path
-            d="M12 22C17.5228 22 22 17.5228 22 12C22 11.5373 21.3065 11.4608 21.0672 11.8568C19.9289 13.7406 17.8615 15 15.5 15C11.9101 15 9 12.0899 9 8.5C9 6.13845 10.2594 4.07105 12.1432 2.93276C12.5392 2.69347 12.4627 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
-            fill="#1C274C"
-          ></path>
-        </g>
-      </svg>
-      <div class="ball"></div>
-      <svg
-        width="20px"
-        height="20px"
-        viewBox="0 0 36 36"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        aria-hidden="true"
-        role="img"
-        class="iconify iconify--twemoji"
-        preserveAspectRatio="xMidYMid meet"
-        fill="#000000"
-      >
-        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-        <g
-          id="SVGRepo_tracerCarrier"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        ></g>
-        <g id="SVGRepo_iconCarrier">
-          <path
-            fill="#FFAC33"
-            d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"
-          ></path>
-          <circle fill="#FFAC33" cx="18" cy="18" r="10"></circle>
-        </g>
-      </svg>
+      <header>
+  <nav>
+    <a href="/" class="logo">
+      <img src="/images/wdLogo.svg" alt="wave delight logo" loading="lazy" />
+      <strong>Blog</strong>
+    </a>
+    <div class="links">
+      <a href="/about">About</a>
+      <a href="/tags">Categories</a>
+      <div class="toggle">
+        <svg
+          width="20px"
+          height="20px"
+          viewBox="0 0 24 24"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          stroke="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g
+            id="SVGRepo_tracerCarrier"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></g>
+          <g id="SVGRepo_iconCarrier">
+            <path
+              d="M12 22C17.5228 22 22 17.5228 22 12C22 11.5373 21.3065 11.4608 21.0672 11.8568C19.9289 13.7406 17.8615 15 15.5 15C11.9101 15 9 12.0899 9 8.5C9 6.13845 10.2594 4.07105 12.1432 2.93276C12.5392 2.69347 12.4627 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
+              fill="#1C274C"
+            ></path>
+          </g>
+        </svg>
+        <div class="ball"></div>
+        <svg
+          width="20px"
+          height="20px"
+          viewBox="0 0 36 36"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          aria-hidden="true"
+          role="img"
+          class="iconify iconify--twemoji"
+          preserveAspectRatio="xMidYMid meet"
+          fill="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g
+            id="SVGRepo_tracerCarrier"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></g>
+          <g id="SVGRepo_iconCarrier">
+            <path
+              fill="#FFAC33"
+              d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"
+            ></path>
+            <circle fill="#FFAC33" cx="18" cy="18" r="10"></circle>
+          </g>
+        </svg>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</header>
  
-<link rel="stylesheet" href="/styles/list.css" />
 
-<div class="singlePage">
-  <div class="singleHead">
-    <div class="userInfo">
+<main class="singlePage">
+  <section class="singleHead">
+    <article class="userInfo">
       <h1>Boost Your Full Stack Development: Top VS Code Extension You need to Use in 2024! 🚀</h1>
       <p>When you write code in vs code sometime you need tools that make your coding faster and easier. Today you know most important extension of JS full-stack developer that make your coding easy, faster and efficient.</p>
       <div class="singlePageUserDetail">
-        <img
-          src="/images/avatar.webp"
-          alt="avatar"
-          loading="lazy"
-          class="listItemAvatar"
-        />
+        <figure>
+          <img
+            src="/images/avatar.webp"
+            alt="avatar"
+            loading="lazy"
+            class="listItemAvatar"
+          />
+        </figure>
         <span>
           
           <a href="https://itzdm.github.io/authors/dm/">DM</a>
@@ -140,17 +149,17 @@
         </span>
       </div>
       <time>Jan 05, 2024</time>
-    </div>
+    </article>
     <img
       src="/images/og-vs-code-ext.webp"
       alt="Boost Your Full Stack Development: Top VS Code Extension You need to Use in 2024! 🚀"
       loading="lazy"
       class="singlePostImage"
     />
-  </div>
+  </section>
 
-  <div class="singleBottom">
-    <div class="singleContent"><p>Visual Studio Code (VS Code) is like a superhero for coders! It helps us write code better, faster, and with fewer mistakes.There are cool tools, called extensions, making VS Code even more awesome. Let&rsquo;s check out some of these extension that can make coding feel like a breeze!</p>
+  <section class="singleBottom">
+    <article class="singleContent"><p>Visual Studio Code (VS Code) is like a superhero for coders! It helps us write code better, faster, and with fewer mistakes.There are cool tools, called extensions, making VS Code even more awesome. Let&rsquo;s check out some of these extension that can make coding feel like a breeze!</p>
 <h3 id="1--eslint-">1- ESLint 🚨.</h3>
 <ul>
 <li><strong>What it does:</strong> ESLint is like a superhero teacher. It checks our code and tells us if there&rsquo;s something wrong. It&rsquo;s fantastic for keeping our code in tip-top shape.</li>
@@ -201,12 +210,11 @@
 </ul>
 <h2 id="conclusion">Conclusion:</h2>
 <p>As we jump into 2024, VS Code keeps getting better with these super extensions. They make coding more fun, less stressful and more fast. Give them a try and see how they can make your coding adventure even more exciting! 🚀👩‍💻👨‍💻.</p>
-</div>
-  </div>
-</div>
+</article>
+  </section>
+</main>
 
- <link rel="stylesheet" href="/styles/footer.css" />
-<div class="footer">
+ <footer class="footer">
   <div class="footerLinks">
     <a href="/">Wave Delight</a> | <a href="/tags">tags</a> |
     <a href="/sitemap.xml">sitemap</a>
@@ -217,7 +225,7 @@
       <img class="socialIcon" src="/images/github.svg" alt="github svg" />
     </a>
   </div>
-</div>
+</footer>
 
     </div>
   </body>

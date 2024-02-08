@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shortcuts on Wave Delight</title>
-    <link>https://itzdm.github.io/tags/shortcuts/</link>
-    <description>Recent content in shortcuts on Wave Delight</description>
+    <title>windows on Wave Delight</title>
+    <link>https://itzdm.github.io/tags/windows/</link>
+    <description>Recent content in windows on Wave Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2024 14:56:41 +0530</lastBuildDate>
-    <atom:link href="https://itzdm.github.io/tags/shortcuts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://itzdm.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Supercharge Your PC Experience with Windows Shortcuts! 🚀</title>
       <link>https://itzdm.github.io/useful-windows-command/</link>
       <pubDate>Thu, 08 Feb 2024 14:56:41 +0530</pubDate>
       <guid>https://itzdm.github.io/useful-windows-command/</guid>
       <description>Welcome to the world of quick and easy! If you&amp;rsquo;re a Windows user, buckle up for a ride through the land of keyboard shortcuts—your ticket to a faster and more enjoyable computing experience. These shortcuts aren&amp;rsquo;t just for tech wizards; they&amp;rsquo;re for everyone who wants to get things done with a simple key press. Let&amp;rsquo;s dive into the shortcuts that will turbocharge your Windows journey!&#xA;1. Basic Navigation: Windows Key: Opens or closes the Start Menu.</description>
-    </item>
-    <item>
-      <title>Supercharge Your Coding: Essential Visual Studio Code Shortcuts 🚀</title>
-      <link>https://itzdm.github.io/useful-vscode-shortcut/</link>
-      <pubDate>Thu, 01 Feb 2024 15:08:53 +0530</pubDate>
-      <guid>https://itzdm.github.io/useful-vscode-shortcut/</guid>
-      <description>Welcome, fellow developers! If you&amp;rsquo;re a coder who spends a significant amount of time in Visual Studio Code, you know the importance of efficiency and speed in your workflow. One of the keys to mastering VS Code is harnessing the power of keyboard shortcuts. In this blog post, we&amp;rsquo;ll explore some of the most useful and time-saving shortcuts that will supercharge your coding experience.&#xA;1. Basic Navigation: Ctrl + P: Quickly open files by name.</description>
     </item>
   </channel>
 </rss>

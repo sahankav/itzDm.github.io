@@ -30,7 +30,14 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
     />
+    
     <link rel="stylesheet" href="/styles/style.css" />
+    <link rel="stylesheet" href="/styles/list.css" />
+    <link rel="stylesheet" href="/styles/about.css" />
+    <link rel="stylesheet" href="/styles/footer.css" />
+    <link rel="stylesheet" href="/styles/navbar.css" />
+
+    
     <script src="/js/main.js" defer></script>
     <title>Choosing the Right Language for AI Development: Python 🐍 vs. Rust 🦀 ?</title>
     <link rel="icon" type="image/x-icon" href="/images/wdLogo.svg" />
@@ -41,82 +48,84 @@
   </head>
   <body>
     <div class="container">
-      <link rel="stylesheet" href="/styles/navbar.css" />
-<nav>
-  <a href="/" class="logo">
-    <img src="/images/wdLogo.svg" alt="wave delight logo" loading="lazy" />
-    <strong>Blog</strong>
-  </a>
-  <div class="links">
-    <a href="/about">About</a>
-    <a href="/tags">Categories</a>
-    <div class="toggle">
-      <svg
-        width="20px"
-        height="20px"
-        viewBox="0 0 24 24"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        stroke="#000000"
-      >
-        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-        <g
-          id="SVGRepo_tracerCarrier"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        ></g>
-        <g id="SVGRepo_iconCarrier">
-          <path
-            d="M12 22C17.5228 22 22 17.5228 22 12C22 11.5373 21.3065 11.4608 21.0672 11.8568C19.9289 13.7406 17.8615 15 15.5 15C11.9101 15 9 12.0899 9 8.5C9 6.13845 10.2594 4.07105 12.1432 2.93276C12.5392 2.69347 12.4627 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
-            fill="#1C274C"
-          ></path>
-        </g>
-      </svg>
-      <div class="ball"></div>
-      <svg
-        width="20px"
-        height="20px"
-        viewBox="0 0 36 36"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        aria-hidden="true"
-        role="img"
-        class="iconify iconify--twemoji"
-        preserveAspectRatio="xMidYMid meet"
-        fill="#000000"
-      >
-        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-        <g
-          id="SVGRepo_tracerCarrier"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        ></g>
-        <g id="SVGRepo_iconCarrier">
-          <path
-            fill="#FFAC33"
-            d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"
-          ></path>
-          <circle fill="#FFAC33" cx="18" cy="18" r="10"></circle>
-        </g>
-      </svg>
+      <header>
+  <nav>
+    <a href="/" class="logo">
+      <img src="/images/wdLogo.svg" alt="wave delight logo" loading="lazy" />
+      <strong>Blog</strong>
+    </a>
+    <div class="links">
+      <a href="/about">About</a>
+      <a href="/tags">Categories</a>
+      <div class="toggle">
+        <svg
+          width="20px"
+          height="20px"
+          viewBox="0 0 24 24"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          stroke="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g
+            id="SVGRepo_tracerCarrier"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></g>
+          <g id="SVGRepo_iconCarrier">
+            <path
+              d="M12 22C17.5228 22 22 17.5228 22 12C22 11.5373 21.3065 11.4608 21.0672 11.8568C19.9289 13.7406 17.8615 15 15.5 15C11.9101 15 9 12.0899 9 8.5C9 6.13845 10.2594 4.07105 12.1432 2.93276C12.5392 2.69347 12.4627 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
+              fill="#1C274C"
+            ></path>
+          </g>
+        </svg>
+        <div class="ball"></div>
+        <svg
+          width="20px"
+          height="20px"
+          viewBox="0 0 36 36"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          aria-hidden="true"
+          role="img"
+          class="iconify iconify--twemoji"
+          preserveAspectRatio="xMidYMid meet"
+          fill="#000000"
+        >
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g
+            id="SVGRepo_tracerCarrier"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></g>
+          <g id="SVGRepo_iconCarrier">
+            <path
+              fill="#FFAC33"
+              d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"
+            ></path>
+            <circle fill="#FFAC33" cx="18" cy="18" r="10"></circle>
+          </g>
+        </svg>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</header>
  
-<link rel="stylesheet" href="/styles/list.css" />
 
-<div class="singlePage">
-  <div class="singleHead">
-    <div class="userInfo">
+<main class="singlePage">
+  <section class="singleHead">
+    <article class="userInfo">
       <h1>Choosing the Right Language for AI Development: Python 🐍 vs. Rust 🦀 ?</h1>
       <p>Artificial Intelligence (AI) is like magic computer brains that help us solve big problems! But to make this magic happen, we need the right computer language. Today, we&#39;ll chat about two cool ones: Python and Rust.</p>
       <div class="singlePageUserDetail">
-        <img
-          src="/images/avatar.webp"
-          alt="avatar"
-          loading="lazy"
-          class="listItemAvatar"
-        />
+        <figure>
+          <img
+            src="/images/avatar.webp"
+            alt="avatar"
+            loading="lazy"
+            class="listItemAvatar"
+          />
+        </figure>
         <span>
           
           <a href="https://itzdm.github.io/authors/dm/">DM</a>
@@ -140,17 +149,17 @@
         </span>
       </div>
       <time>Dec 28, 2023</time>
-    </div>
+    </article>
     <img
       src="/images/python-vs-rust-ai.webp"
       alt="Choosing the Right Language for AI Development: Python 🐍 vs. Rust 🦀 ?"
       loading="lazy"
       class="singlePostImage"
     />
-  </div>
+  </section>
 
-  <div class="singleBottom">
-    <div class="singleContent"><p>When you&rsquo;re making cool stuff with computers, like smart programs or robots, you need to choose the right computer language. Two languages that people use a lot for this are Python and Rust. Let&rsquo;s look at what makes each of them special and help you decide which one might be better for your project.</p>
+  <section class="singleBottom">
+    <article class="singleContent"><p>When you&rsquo;re making cool stuff with computers, like smart programs or robots, you need to choose the right computer language. Two languages that people use a lot for this are Python and Rust. Let&rsquo;s look at what makes each of them special and help you decide which one might be better for your project.</p>
 <h2 id="python-for-ai-">Python for AI 🐍.</h2>
 <p>Python is like the friendly neighborhood wizard of AI. 🧙‍♂️ Here&rsquo;s why:</p>
 <ol>
@@ -190,12 +199,11 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>Choosing between Python and Rust is like picking between a friendly wizard and a superhero. 🤔 If you want quick and easy magic, go with Python. If you need superhero speed and power, Rust might be your hero.</p>
 <p>Remember, you can even mix their powers! Use Python for fun experiments and Rust when you need to save the day with speed and efficiency. The best choice depends on the kind of magic you&rsquo;re making and how comfy you are with your wizard or superhero skills! 🚀✨</p>
-</div>
-  </div>
-</div>
+</article>
+  </section>
+</main>
 
- <link rel="stylesheet" href="/styles/footer.css" />
-<div class="footer">
+ <footer class="footer">
   <div class="footerLinks">
     <a href="/">Wave Delight</a> | <a href="/tags">tags</a> |
     <a href="/sitemap.xml">sitemap</a>
@@ -206,7 +214,7 @@
       <img class="socialIcon" src="/images/github.svg" alt="github svg" />
     </a>
   </div>
-</div>
+</footer>
 
     </div>
   </body>
